@@ -79,7 +79,6 @@ public class Thesaurus
      * Method gets the synonym of the given word at the specified distance.
      * @param word the word to be substituted.
      * @param distance the given distance of the substitution.
-     * @return the resulting synonym
      */
     public String getSynonym(String word, int distance)
     {

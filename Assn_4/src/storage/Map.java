@@ -25,7 +25,6 @@ public class Map
     /**
      * Method retrieves the key assigned to the given value.
      * @param value the value assigned to the desired key
-     *
      */
     public int getKey(String value)
     {
